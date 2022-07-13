@@ -1,0 +1,5 @@
+﻿  Main.c
+C:\Users\micha\source\repos\Mittelwertrechner\Mittelwertrechner\Main.c(49,84): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet.
+C:\Users\micha\source\repos\Mittelwertrechner\Mittelwertrechner\Main.c(52,9): warning C4477: "scanf": Die Formatzeichenfolge "%i" erfordert ein Argument vom Typ "int *", das variadic-Argument "1" weist aber den Typ "double *" auf.
+C:\Users\micha\source\repos\Mittelwertrechner\Mittelwertrechner\Main.c(58,9): warning C4477: "printf": Die Formatzeichenfolge "%d" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "double" auf.
+  Mittelwertrechner.vcxproj -> C:\Users\micha\source\repos\Mittelwertrechner\Debug\Mittelwertrechner.exe
